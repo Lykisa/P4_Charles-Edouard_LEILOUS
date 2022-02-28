@@ -1039,4 +1039,20 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .col-sm-6 a {
+        display: flex;
+        justify-content: center;        
+    }
+    .social {
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+    }
+    .col-sm-4 {
+        display: flex;
+        justify-content: center;
+    }
+    
+
+
 }
